@@ -6,4 +6,4 @@ function styleHeaderMain() {
   headerEl.style.position = "absolute";
 }
 
-styleHeaderMain();
+module.exports = styleHeaderMain;
